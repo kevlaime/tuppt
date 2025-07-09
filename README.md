@@ -1,3 +1,1 @@
-📁 Estructura general
-
-frontend/: app Angular + Typescript
+Esto va desaparecer
